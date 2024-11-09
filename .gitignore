@@ -2,4 +2,6 @@
 .venv/
 .metrics
 sklearn/
+mlruns
+simplemodel
 
