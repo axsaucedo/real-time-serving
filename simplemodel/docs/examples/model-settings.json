@@ -1,0 +1,9 @@
+{
+    "name": "test-model",
+    "implementation": "simplemodel.SimpleModel",
+    "parameters": {
+        "extra": {
+            "lambda_value": "lambda x: sum(x)"
+        }
+    }
+}
