@@ -3,4 +3,5 @@
 .metrics
 sklearn/
 mlruns
+seldon-core/
 
